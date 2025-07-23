@@ -4,7 +4,7 @@ A high-converting landing page for the "Overnight MVP" course, optimized for max
 
 ## 🚀 Live Demo
 
-- **Production Site**: [https://majestic-naiad-472ef2.netlify.app/](https://majestic-naiad-472ef2.netlify.app/)
+- **Production Site**: [https://omvp-100k-test.netlify.app/](https://omvp-100k-test.netlify.app/)
 - **Purchase Links**:
   - `/buy` → Redirects to Gumroad
   - `/purchase` → Redirects to Gumroad
