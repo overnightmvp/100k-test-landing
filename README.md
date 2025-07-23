@@ -45,7 +45,7 @@ This project is configured for seamless deployment on Netlify:
 
 ### Quick Deploy to Netlify
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yourusername/100k-test-landing)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/overnightmvp/100k-test-landing)
 
 ## 🔗 Purchase Shortcuts
 
